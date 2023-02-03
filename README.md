@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-faizan.vercel.app/](https://my-portfolio-faizan.vercel.app/)
+- 👨‍💻 All of my projects are available at [(https://portfolio-ivgp.vercel.app/)](https://portfolio-ivgp.vercel.app/)
 
 - 💬 Ask me about **html|css|JS|NodeJS|ExpressJS|MongoDB|React|Redux**
 
 - 📫 How to reach me **faizan8t8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K7T-N3542qJh9s2pfQcJ66AAYcMmm1_m/view?usp=sharing](https://drive.google.com/file/d/1K7T-N3542qJh9s2pfQcJ66AAYcMmm1_m/view?usp=sharing)
+- 📄 Know about my experiences [(https://drive.google.com/drive/folders/1DLFIsH3jmQcJ4_x8fKfBOWJSN2bBh6AJ?usp=share_link)](https://drive.google.com/drive/folders/1DLFIsH3jmQcJ4_x8fKfBOWJSN2bBh6AJ?usp=share_link)
 
 - ⚡ Fun fact **Apart from coding love to play Cricket, binge movies and hang out with dear ones.**
 
